@@ -5,13 +5,13 @@ I use this repository to improve my understanding of core Java concepts, problem
 
 ## Topics Covered
 - Basic Java Programs
-- Object-Oriented Programming (OOP)
-- Arrays and Strings
 - Loops and Conditional Statements
+- Arrays 
+- Strings
 - Functions and Methods
-- Collections Framework
-- Exception Handling
-- File Handling
+- Number-Based Programs
+- Pattern Programs
+- Object-Oriented Programming (OOP)
 - Practice Problems
 
 ##  Purpose
