@@ -22,5 +22,6 @@ The purpose of this repository is to:
 - Prepare for coding interviews and placements
 - Track my learning journey
 
-AUTHOR 
-PAVITHRA KR
+Author 
+
+Pavithra KR
